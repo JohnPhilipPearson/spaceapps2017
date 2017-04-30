@@ -1,7 +1,7 @@
 # Spaceapps2017
-Spaceapps components AngularJS 4.X, Unity Virtual Reality Images and Clarifai Artificial Intelligence
+Frontierless components AngularJS 4.X, Unity Virtual Reality Images and Clarifai Artificial Intelligence
 
-The plan is to take space data, model it in Virtual Reality and use Artificial Intelligence to help us understand space. Share all of these tools with the people across the Earth. Come up with a plan where we need to go.
+Frontierless plan is to take space data, model it in Virtual Reality and use Clarifai custom model using their Artificial Intelligence to help us understand space. Share all of these tools with the people across the Earth. Come up with a plan where we need to go.
 
 ### [Clarifai](https://www.clarifai.com/)
 ### [Clarifai npm](https://github.com/Clarifai/clarifai-javascript)
@@ -21,4 +21,13 @@ This project pulls together Data Models from space, models them in Virtual Reali
 This project gives access to knowledge to people from all over the world.
 
 # Sustainability
-This project lacked team members perhaps too many technologies was overwhelming.
+This project is looking forward to team members many leading edge technologies.
+
+
+# Steps
+clone repository
+follow AngularJS Seed steps
+get keys from Clarifai and update src/app/features/spaceapps/spaceapps.components.ts
+last 2 steps
+yarn run universal
+http://localhost:8000
