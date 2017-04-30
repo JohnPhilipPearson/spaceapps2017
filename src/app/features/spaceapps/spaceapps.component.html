@@ -1,0 +1,26 @@
+<header>
+  <h5>
+    Spaceapps module is being loaded dynamically Unity Virtual Reality and Clarifai.
+  </h5>
+  <a target="_blank" href="https://github.com/JohnPhilipPearson/spaceapps2017">Spaceapps2017</a>
+  
+  <button md-raised-button color="primary">Clarifai</button>
+  <button md-raised-button color="accent" type="button" (click)="image1()">Image1</button>
+  <button md-raised-button color="accent" type="button" (click)="image2()">Image2</button>
+  <button md-raised-button color="accent" type="button" (click)="image3()">Image3</button>
+
+
+  <div *ngFor="let concept of concepts; let i=index">
+                <div> {{i + 1}} {{concept.name}} {{concept.value}} </div>
+  </div>
+  <!--
+  <img src="url" alt="some_text" style="width:width;height:height;">
+  -->
+  <div *ngIf="url">
+    <img src="{{url}}" >
+  </div>
+
+
+<ng-template #loading>Loading...</ng-template>
+
+</header>
