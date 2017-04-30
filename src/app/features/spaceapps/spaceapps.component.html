@@ -1,17 +1,18 @@
 <header>
   <h5>
-    Spaceapps module is being loaded dynamically Unity Virtual Reality and Clarifai.
+    Spaceapps AngularJS, Unity Virtual Reality and Clarifai Artificial Intelligence 
+    <a target="_blank" href="https://github.com/JohnPhilipPearson/spaceapps2017">Spaceapps2017</a>
+     
+    <a target="_blank" href="https://en.wikipedia.org/wiki/TRAPPIST-1">TRAPPIST-1</a>
   </h5>
-  <a target="_blank" href="https://github.com/JohnPhilipPearson/spaceapps2017">Spaceapps2017</a>
-  
-  <button md-raised-button color="primary">Clarifai</button>
+  <div>Clarifai</div>
   <button md-raised-button color="accent" type="button" (click)="image1()">Image1</button>
   <button md-raised-button color="accent" type="button" (click)="image2()">Image2</button>
   <button md-raised-button color="accent" type="button" (click)="image3()">Image3</button>
 
 
   <div *ngFor="let concept of concepts; let i=index">
-                <div> {{i + 1}} {{concept.name}} {{concept.value}} </div>
+                {{i + 1}} {{concept.name}} {{concept.value}} 
   </div>
   <!--
   <img src="url" alt="some_text" style="width:width;height:height;">
