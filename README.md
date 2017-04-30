@@ -1,11 +1,34 @@
-# spaceapps2017
+# Spaceapps2017
 Spaceapps AngularJS, Unity Virtual Reality Images and Clarifai Artificial Intelligence
 
 ### [Clarifai](https://github.com/Clarifai/clarifai-javascript)
 
 ### [AngularJS Seed](https://github.com/qdouble/angular-webpack2-starter)
 
-# Complete starter seed project for Angular 2
+### [Unity3d](https://unity3d.com/)
+
+
+
+    Impact: How much impact  can this project have? Does it solve a big problem or a little problem?
+
+    Creativity: How creative is the approach? Is the project new and something that hasn’t been attempted before? Is it something that isn't being addressed by the market?
+
+    Product: How well does this project fit the needs of the challenge it addresses? How user friendly is the technology? Is it a complete solution or does it have a long way to go?
+
+    Sustainability: How good is the plan for next steps? How prepared is the project team to continue their work beyond the event? Is the project organized in a way so others can take the project to the next level?
+
+
+# Impact
+This project helps solve a very big problem, the people of Earth will have to live on other planets. We need tools to help us get there.
+
+# Creativity
+This project pulls together Data Models from space, models them in Virtual Reality, Artificial Intelligence to augment understanding and allows people from all over the world to share in the knowledge.
+
+# Product
+This project gives access to knowledge to people from all over the world.
+
+# Sustainability
+This project lacked team members perhaps too many technologies was overwhelming.
 
 ## Material Branch with Universal (Server-side rendering) support
 
