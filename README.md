@@ -1,7 +1,7 @@
 # Spaceapps2017
 Frontierless components AngularJS 4.X, Unity Virtual Reality Images and Clarifai Artificial Intelligence
 
-This project was inspired by Sarah Pearson's talk of live on other planets at Spaceapps2017
+This project was inspired by Sarah Pearson's talk on life on other planets at Spaceapps2017
 
 The Frontierless plan is to take space data, model it in Virtual Reality and use Clarifai custom model using their Artificial Intelligence to help us understand space. Share all of these tools with the people across the Earth. Come up with a plan where we need to go.
 
